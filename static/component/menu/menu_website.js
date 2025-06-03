@@ -12,7 +12,7 @@ document.write(`
                      <label class="tree-item-header" for="tree1"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Flask</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Install</a></li>
+                           <li class="menu-item"><a href="./error404.html">Install</a></li>
                         </ul>
                      </div>
                   </div>
@@ -24,7 +24,7 @@ document.write(`
                      <label class="tree-item-header" for="tree2"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Nuxt</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Install</a></li>
+                           <li class="menu-item"><a href="./error404.html">Install</a></li>
                         </ul>
                      </div>
                   </div>
@@ -36,7 +36,7 @@ document.write(`
                      <label class="tree-item-header" for="tree3"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Phoenix</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Install</a></li>
+                           <li class="menu-item"><a href="./error404.html">Install</a></li>
                         </ul>
                      </div>
                   </div>

@@ -5,21 +5,25 @@ document.write(`
 		 							breadcrumbs
          
          ##################################################################-->
-
-      <ul class="breadcrumb breadcrumb--center">
-	     <li class="breadcrumb__item">
-            <a href="./index.html" class="text-dark">Coding</a>
-         </li>
-         <li class="breadcrumb__item">
-            <a href="./app.html" class="text-dark">App</a>
-         </li>
-         <li class="breadcrumb__item">
-            <a href="./game.html" class="text-dark">Game</a>
-         </li>
-         <li class="breadcrumb__item">
-            <a href="./website.html" class="text-dark">Website</a>
-         </li>
-      </ul>
+      <div class="u-flex u-flex-row-reverse u-gap-1">
+         <a href="./index.html"><img class="img-stretch pb-2 hover-grow" style="height: 55px;" src="./static/pic/cat.webp"></a>
+         <div class="u-center">
+         <ul class="breadcrumb breadcrumb--center">
+	        <li class="breadcrumb__item">
+               <a href="./index.html" class="text-dark">Coding</a>
+            </li>
+            <li class="breadcrumb__item">
+               <a href="./app.html" class="text-dark">App</a>
+            </li>
+            <li class="breadcrumb__item">
+               <a href="./game.html" class="text-dark">Game</a>
+            </li>
+            <li class="breadcrumb__item">
+               <a href="./website.html" class="text-dark">Website</a>
+            </li>
+         </ul>
+         </div>
+      </div>
 	
 	  <!-- ################################################################
          

@@ -12,9 +12,10 @@ document.write(`
                      <label class="tree-item-header" for="tree1"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Python</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Pygame</a></li>
-                           <li class="menu-item"><a href="!#">Flet</a></li>
-                           <li class="menu-item"><a href="!#">CustomTkinter</a></li>
+                           <li class="menu-item"><a href="./error404.html">Introductions</a></li>
+                           <li class="menu-item"><a href="./error404.html">Pygame</a></li>
+                           <li class="menu-item"><a href="./error404.html">Flet</a></li>
+                           <li class="menu-item"><a href="./error404.html">CustomTkinter</a></li>
                         </ul>
                      </div>
                   </div>
@@ -26,7 +27,8 @@ document.write(`
                      <label class="tree-item-header" for="tree2"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Lua</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Love2D</a></li>
+                           <li class="menu-item"><a href="./error404.html">Introductions</a></li>
+                           <li class="menu-item"><a href="./error404.html">Love2D</a></li>
                         </ul>
                      </div>
                   </div>
@@ -38,7 +40,8 @@ document.write(`
                      <label class="tree-item-header" for="tree3"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Elixir</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Phoenix</a></li>
+                           <li class="menu-item"><a href="./error404.html">Introductions</a></li>
+                           <li class="menu-item"><a href="./error404.html">Phoenix</a></li>
                         </ul>
                      </div>
                   </div>
@@ -50,7 +53,8 @@ document.write(`
                      <label class="tree-item-header" for="tree4"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Js</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Nuxt</a></li>
+                           <li class="menu-item"><a href="./error404.html">Introductions</a></li>
+                           <li class="menu-item"><a href="./error404.html">Nuxt</a></li>
                         </ul>
                      </div>
                   </div>
