@@ -20,21 +20,24 @@ document.write(`
 						<ul>
 							<li>Python</li>
 							<li>Lua</li>
+							<li>Elixir</li>
+							<li>Js</li>
 						</ul>
     				<li>App</li>
 						<ul>
 							<li>Flet</li>
 							<li>CustomTkinter</li>
 						</ul>
+    				<li>Game</li>
+						<ul>
+							<li>Pygame</li>
+							<li>Love2D</li>
+						</ul>
     				<li>Website</li>
 						<ul>
 							<li>Flask</li>
 							<li>Nuxt</li>
-						</ul>
-    				<li>Game Creater</li>
-						<ul>
-							<li>Pygame</li>
-							<li>Love2D</li>
+							<li>Phoenix</li>
 						</ul>
 			   </ul>
 			   <p>&emsp;&emsp;&emsp;ถ้าเกิดว่าทั้งหมดนี้ สามารถช่วยเหลือผู้ใช้งานได้ และอยากจะสนับสนุนค่าช็อคโกแลตร้อนของผม 

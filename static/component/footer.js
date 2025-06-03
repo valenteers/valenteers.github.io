@@ -58,7 +58,7 @@ document.write(`
             </div>
          </div>
 		 <div class="divider mx-20"></div>
-		 <img class="img-stretch u-center pb-2" style="height: 80px;" src="./static/pic/va.webp">
+		 <img class="img-stretch u-center pb-2 hover-grow" style="height: 80px;" src="../static/pic/va.webp">
          <p class="subtitle">valenteer © 2025.</p>
 		 
       </footer>

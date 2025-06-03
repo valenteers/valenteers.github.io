@@ -9,12 +9,10 @@ document.write(`
                 <div class="tree">
                   <div class="tree-item">
                      <input type="radio" id="tree1" class="u-none" name="radioTree">
-                     <label class="tree-item-header" for="tree1"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Python</label>
+                     <label class="tree-item-header" for="tree1"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Flask</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Pygame</a></li>
-                           <li class="menu-item"><a href="!#">Flet</a></li>
-                           <li class="menu-item"><a href="!#">CustomTkinter</a></li>
+                           <li class="menu-item"><a href="!#">Install</a></li>
                         </ul>
                      </div>
                   </div>
@@ -23,10 +21,10 @@ document.write(`
                <div class="tree">
                   <div class="tree-item">
                      <input type="radio" id="tree2" class="u-none" name="radioTree">
-                     <label class="tree-item-header" for="tree2"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Lua</label>
+                     <label class="tree-item-header" for="tree2"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Nuxt</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Love2D</a></li>
+                           <li class="menu-item"><a href="!#">Install</a></li>
                         </ul>
                      </div>
                   </div>
@@ -35,27 +33,16 @@ document.write(`
                <div class="tree">
                   <div class="tree-item">
                      <input type="radio" id="tree3" class="u-none" name="radioTree">
-                     <label class="tree-item-header" for="tree3"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Elixir</label>
+                     <label class="tree-item-header" for="tree3"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Phoenix</label>
                      <div class="tree-item-body">
                         <ul class="menu">
-                           <li class="menu-item"><a href="!#">Phoenix</a></li>
+                           <li class="menu-item"><a href="!#">Install</a></li>
                         </ul>
                      </div>
                   </div>
                </div>
             <div class="divider bg-gray-600 mx-5"></div>
-               <div class="tree">
-                  <div class="tree-item">
-                     <input type="radio" id="tree4" class="u-none" name="radioTree">
-                     <label class="tree-item-header" for="tree4"><span class="icon"><i class="fa fa-wrapper fa-chevron-right small" aria-hidden="true"></i></span>Js</label>
-                     <div class="tree-item-body">
-                        <ul class="menu">
-                           <li class="menu-item"><a href="!#">Nuxt</a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-            <div class="divider bg-gray-600 mx-5"></div>
+
    
      <!-- ################################################################
          
