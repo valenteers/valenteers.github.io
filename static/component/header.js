@@ -2,15 +2,15 @@ document.write(`
 
       <!-- ################################################################
          
-		 							header
+		 				header
          
          ##################################################################-->
 
-         	<h1 class="u-center m-4 font-extrabold uppercase">Boring So Coding</h1>
+         	<!--<h1 class="u-center m-4 font-extrabold uppercase">Boring So Coding</h1>-->
 	
 	  <!-- ################################################################
          
-		 							End header
+		 				End header
          
       ##################################################################-->
 	
