@@ -126,14 +126,11 @@ document.write(`
                             }
                         }, $data.cursorSpeed);
 
-                    })"
-                    class="flex items-center justify-center mx-auto text-center max-w-7xl">
-                    <div class="relative flex items-center justify-center h-auto">
-                        <p class="text-2xl font-black leading-tight" x-text="text"></p>
-                        <span class="absolute right-0 w-2 -mr-2 bg-black h-3/4" x-ref="cursor"></span>
+                    })">
+                    <div class="flex u-center">
+                        <p x-text="text"></p>
                     </div>
                 </div>
-         <!--<p class="subtitle">valenteer © 2025.</p>-->
 		 
       </footer>
 	
