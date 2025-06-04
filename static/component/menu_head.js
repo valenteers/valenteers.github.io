@@ -5,8 +5,9 @@ document.write(`
 		 							breadcrumbs
          
          ##################################################################-->
+   
       <div class="u-flex u-flex-row-reverse u-gap-1">
-         <a href="./index.html"><img class="img-stretch md:m-2 m-3 mr-2 hover-grow" style="height: 35px;" src="./static/pic/va.webp"></a>
+         <a href="./index.html"><img class="img-stretch md:m-2 m-3 hover-grow" style="height: 35px;" src="./static/pic/va.webp"></a>
          <div class="u-center">
          <ul class="breadcrumb breadcrumb--center ml-8">
 	        <li class="breadcrumb__item">
