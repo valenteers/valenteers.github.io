@@ -6,11 +6,11 @@ document.write(`
          
          ##################################################################-->
       <div class="u-flex u-flex-row-reverse u-gap-1">
-         <a href="./index.html"><img class="img-stretch pb-2 hover-grow" style="height: 55px;" src="./static/pic/cat.webp"></a>
+         <a href="./index.html"><img class="img-stretch m-1 hover-grow" style="height: 35px;" src="./static/pic/va.webp"></a>
          <div class="u-center">
-         <ul class="breadcrumb breadcrumb--center">
+         <ul class="breadcrumb breadcrumb--center ml-8">
 	        <li class="breadcrumb__item">
-               <a href="./index.html" class="text-dark">Coding</a>
+               <a href="./coding.html" class="text-dark">Coding</a>
             </li>
             <li class="breadcrumb__item">
                <a href="./app.html" class="text-dark">App</a>

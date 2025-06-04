@@ -6,7 +6,7 @@ document.write(`
          
          ##################################################################-->
 
-         <h1 class="u-center m-4 font-bold uppercase font-mono ">Boring So Coding </h1>
+         	<h1 class="u-center m-4 font-extrabold uppercase">Boring So Coding</h1>
 	
 	  <!-- ################################################################
          
