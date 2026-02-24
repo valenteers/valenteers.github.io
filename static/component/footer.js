@@ -11,14 +11,13 @@ document.write(`
             <div class="row">
                <div class="md:col-4">
                   <ul class="no-bullets">
-                     <a href="!#">
-                        <li class="footer__list-item">Home</li>
+                     <a href="#">
                         <li class="footer__list-item">Home</li>
                      </a>
-                     <a href="!#">
+                     <a href="#">
                         <li class="footer__list-item">Sign Up</li>
                      </a>
-                     <a href="!#">
+                     <a href="#">
                         <li class="footer__list-item">Downloads</li>
                      </a>
                      <ul>
@@ -27,13 +26,13 @@ document.write(`
                </div>
                <div class="md:col-4">
                   <ul class="no-bullets">
-                     <a href="!#">
+                     <a href="#">
                         <li class="footer__list-item">Company Information</li>
                      </a>
-                     <a href="!#">
+                     <a href="#">
                         <li class="footer__list-item">Contact Us</li>
                      </a>
-                     <a href="!#">
+                     <a href="#">
                         <li class="footer__list-item">Reviews</li>
                      </a>
                      <ul>
@@ -42,13 +41,13 @@ document.write(`
                </div>
                <div class="md:col-4">
                   <ul class="no-bullets">
-                     <a href="!#">
+                     <a href="#">
                         <li class="footer__list-item">FAQ</li>
                      </a>
-                     <a href="!#">
+                     <a href="#">
                         <li class="footer__list-item">Help Desk</li>
                      </a>
-                     <a href="!#">
+                     <a href="#">
                         <li class="footer__list-item">Forums</li>
                      </a>
                      <ul>
